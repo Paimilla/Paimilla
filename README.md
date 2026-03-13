@@ -29,6 +29,7 @@ Proyecto de Computer Vision orientado a interpretar la forma de una mano para de
 
 - Enfoque ML: extraccion de caracteristicas visuales, clasificacion de patrones y validacion de predicciones.
 
+*en proceso de subirlo a github
 ### 3) Deteccion de comida con YOLO
 
 Proyecto de deteccion de alimentos en imagenes usando modelos YOLO para identificar objetos en tiempo real o sobre capturas.
@@ -37,6 +38,7 @@ Proyecto de deteccion de alimentos en imagenes usando modelos YOLO para identifi
 - Logro: desarrollo con YOLOv11 y Python para clasificacion de comida chilena.
 - Dataset: creacion y curacion de datasets personalizados para entrenamiento supervisado.
 
+*en proceso de subirlo a github
 ## Experiencia profesional
 
 ### Practica Profesional - Area de Informatica
