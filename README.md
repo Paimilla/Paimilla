@@ -39,6 +39,17 @@ Proyecto de deteccion de alimentos en imagenes usando modelos YOLO para identifi
 - Dataset: creacion y curacion de datasets personalizados para entrenamiento supervisado.
 
 *en proceso de subirlo a github
+
+### 4)Sistema de Análisis de Precios y Stock (E-commerce ETL)
+
+Proyecto de automatización de extracción, transformación y carga de datos para monitoreo de inventarios y competitividad.
+
+- Enfoque Data: integración de Python con bases de datos SQL para la limpieza y normalización de catálogos.
+- Logro: automatización de reportes de stock crítico y variaciones de precio mediante Pandas y SQLite/PostgreSQL.
+- Visualización: construcción de dashboards en Power BI para el análisis de KPIs de negocio (Price Index y Stock-out).
+
+*en proceso de subirlo a github
+
 ## Experiencia profesional
 
 ### Practica Profesional - Area de Informatica
