@@ -48,7 +48,7 @@ Proyecto de automatización de extracción, transformación y carga de datos par
 - Logro: automatización de reportes de stock crítico y variaciones de precio mediante Pandas y SQLite/PostgreSQL.
 - Visualización: construcción de dashboards en Power BI para el análisis de KPIs de negocio (Price Index y Stock-out).
 
-*en proceso de subirlo a github
+Repo: [https://github.com/Paimilla/app-gimnacio](https://github.com/Paimilla/Analisis-de-Precios-y-Stock)
 
 ## Experiencia profesional
 
