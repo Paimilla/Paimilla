@@ -70,6 +70,14 @@ Ilustre Municipalidad de La Cruz (Ene 2025 - Feb 2025)
 - Modernización de hardware (HDD a SSD) y soporte técnico avanzado.
 - Construcción de dashboards en Excel para gestión de multas de tránsito.
 
+### 6) Curso de Python: De Básico a Avanzado (Bitácora)
+
+Repositorio personal estructurado con apuntes, ejercicios prácticos y pequeños proyectos para afianzar las bases del lenguaje.
+
+- **Enfoque:** variables, estructuras de datos, control de flujo y Programación Orientada a Objetos (POO).
+- **Repo:** [https://github.com/Paimilla/Curso-python-](https://github.com/Paimilla/Curso-python-)
+
+
 ## Certificaciones
 
 - **Deep Learning Specialization** | DeepLearning.AI *(En curso)*
@@ -173,6 +181,13 @@ Workout tracking app with weight logs, weekly progress, and statistics. Product-
 
 - **Repository:** [https://github.com/Paimilla/app-gimnacio](https://github.com/Paimilla/app-gimnacio)
 - **Live demo:** [https://paimilla.github.io/app-gimnacio/](https://paimilla.github.io/app-gimnacio/)
+
+#### 6) Python Course: From Basic to Advanced (Study Log)
+
+Structured personal repository containing notes, practical exercises, and small projects to solidify Python fundamentals.
+
+- **Focus:** variables, data structures, flow control, and Object-Oriented Programming (OOP).
+- **Repo:** [https://github.com/Paimilla/Curso-python-](https://github.com/Paimilla/Curso-python-)
 
 ### Professional experience
 
