@@ -58,6 +58,12 @@ App para seguimiento de entrenamientos con registro de pesos, progreso semanal y
 - **Repo:** [https://github.com/Paimilla/app-gimnacio](https://github.com/Paimilla/app-gimnacio)
 - **Demo web:** [https://paimilla.github.io/app-gimnacio/](https://paimilla.github.io/app-gimnacio/)
 
+### 6) Curso de Python: De Básico a Avanzado (Bitácora)
+
+Repositorio personal estructurado con apuntes, ejercicios prácticos y pequeños proyectos para afianzar las bases del lenguaje.
+
+- **Enfoque:** variables, estructuras de datos, control de flujo y Programación Orientada a Objetos (POO).
+- **Repo:** [https://github.com/Paimilla/Curso-python-](https://github.com/Paimilla/Curso-python-)
 ## Experiencia profesional
 
 ### Práctica Profesional - Área de Informática
@@ -69,13 +75,6 @@ Ilustre Municipalidad de La Cruz (Ene 2025 - Feb 2025)
 - Automatización de inventario con Google Apps Script para más de 90 activos tecnológicos.
 - Modernización de hardware (HDD a SSD) y soporte técnico avanzado.
 - Construcción de dashboards en Excel para gestión de multas de tránsito.
-
-### 6) Curso de Python: De Básico a Avanzado (Bitácora)
-
-Repositorio personal estructurado con apuntes, ejercicios prácticos y pequeños proyectos para afianzar las bases del lenguaje.
-
-- **Enfoque:** variables, estructuras de datos, control de flujo y Programación Orientada a Objetos (POO).
-- **Repo:** [https://github.com/Paimilla/Curso-python-](https://github.com/Paimilla/Curso-python-)
 
 
 ## Certificaciones
