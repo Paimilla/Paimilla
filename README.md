@@ -1,74 +1,83 @@
 # Hola, soy Felipe Paimilla
 
-Ingeniero Civil Informatico orientado a Machine Learning y Computer Vision, enfocado en construir soluciones aplicadas de deteccion, clasificacion y analisis de imagenes.
+Ingeniero Civil Informático orientado a Machine Learning y Computer Vision, enfocado en construir soluciones aplicadas de detección, clasificación y análisis de imágenes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Paimilla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-paimilla-4000a2206/)
 [![GitHub](https://img.shields.io/badge/GitHub-Paimilla-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paimilla)
 
 ## Sobre mi
 
-- Desarrollo soluciones de vision por computadora con enfoque en problemas reales.
-- Trabajo en pipelines de deteccion y clasificacion de imagenes.
-- Tengo experiencia en creacion, limpieza y curacion de datasets para entrenamiento de modelos.
-- Me interesa llevar modelos de ML a productos utiles y faciles de usar.
-- Tengo experiencia en automatizacion, migracion de plataformas y soporte tecnico.
-- Base en Cloud Computing, desarrollo de software y gestion agil de proyectos.
+- Desarrollo soluciones de visión por computadora con enfoque en problemas reales.
+- Trabajo en pipelines de detección y clasificación de imágenes.
+- Tengo experiencia en creación, limpieza y curación de datasets para entrenamiento de modelos.
+- Me interesa llevar modelos de ML a productos útiles y fáciles de usar.
+- Tengo experiencia en automatización, migración de plataformas y soporte técnico.
+- Base en Cloud Computing, desarrollo de software y gestión ágil de proyectos.
 
 ## Proyectos destacados
 
-### 1) GymTracker
+### 1) Detección de comida con YOLO
 
-App para seguimiento de entrenamientos con registro de pesos, progreso semanal y estadisticas. Proyecto complementario para producto/UX.
+Proyecto de detección de alimentos en imágenes usando modelos YOLO para identificar objetos en tiempo real o sobre capturas.
 
-- Repo: https://github.com/Paimilla/app-gimnacio
-- Demo web: https://paimilla.github.io/app-gimnacio/
+- **Enfoque ML:** object detection, ajuste de inferencia y análisis de resultados por clase.
+- **Logro:** desarrollo con YOLOv11 y Python para clasificación de comida chilena.
+- **Dataset:** creación y curación de datasets personalizados para entrenamiento supervisado.
 
-### 2) Deteccion de vocales en lenguaje de senas (vision por computadora)
+*en proceso de subirlo a github*
 
-Proyecto de Computer Vision orientado a interpretar la forma de una mano para detectar vocales en lenguaje de senas.
+### 2) Detección de vocales en lenguaje de señas (Visión por computadora)
 
-- Enfoque ML: extraccion de caracteristicas visuales, clasificacion de patrones y validacion de predicciones.
+Proyecto de Computer Vision orientado a interpretar la forma de una mano para detectar vocales en lenguaje de señas.
 
-*en proceso de subirlo a github
-### 3) Deteccion de comida con YOLO
+- **Enfoque ML:** extracción de características visuales, clasificación de patrones y validación de predicciones.
 
-Proyecto de deteccion de alimentos en imagenes usando modelos YOLO para identificar objetos en tiempo real o sobre capturas.
+*en proceso de subirlo a github*
 
-- Enfoque ML: object detection, ajuste de inferencia y analisis de resultados por clase.
-- Logro: desarrollo con YOLOv11 y Python para clasificacion de comida chilena.
-- Dataset: creacion y curacion de datasets personalizados para entrenamiento supervisado.
+### 3) Deep Learning desde cero (Especialización Coursera)
 
-*en proceso de subirlo a github
+Repositorio de estudio práctico enfocado en las matemáticas y la lógica del Deep Learning, construyendo arquitecturas sin usar frameworks de alto nivel.
 
-### 4)Sistema de Análisis de Precios y Stock (E-commerce ETL)
+- **Enfoque ML:** Desarrollo matemático de Forward/Backward Propagation, inicialización de pesos, Gradient Checking, Dropout y regularización L2.
+- **Logro:** Construcción de Redes Neuronales Profundas (L-layer DNN) utilizando exclusivamente **Python** y **NumPy** para tareas de clasificación de imágenes (Gato vs No Gato).
+- **Repo:** [https://github.com/Paimilla/Deep-Learning-Specialization-Andrew-Ng-Coursera](https://github.com/Paimilla/Deep-Learning-Specialization-Andrew-Ng-Coursera)
+
+### 4) Sistema de Análisis de Precios y Stock (E-commerce ETL)
 
 Proyecto de automatización de extracción, transformación y carga de datos para monitoreo de inventarios y competitividad.
 
-- Enfoque Data: integración de Python con bases de datos SQL para la limpieza y normalización de catálogos.
-- Logro: automatización de reportes de stock crítico y variaciones de precio mediante Pandas y SQLite/PostgreSQL.
-- Visualización: construcción de dashboards en Power BI para el análisis de KPIs de negocio (Price Index y Stock-out).
+- **Enfoque Data:** integración de Python con bases de datos SQL para la limpieza y normalización de catálogos.
+- **Logro:** automatización de reportes de stock crítico y variaciones de precio mediante Pandas y SQLite/PostgreSQL.
+- **Visualización:** construcción de dashboards en Power BI para el análisis de KPIs de negocio (Price Index y Stock-out).
+- **Repo:** [https://github.com/Paimilla/Analisis-de-Precios-y-Stock](https://github.com/Paimilla/Analisis-de-Precios-y-Stock)
 
-Repo: [https://github.com/Paimilla/app-gimnacio](https://github.com/Paimilla/Analisis-de-Precios-y-Stock)
+### 5) GymTracker
+
+App para seguimiento de entrenamientos con registro de pesos, progreso semanal y estadísticas. Proyecto complementario para producto/UX.
+
+- **Repo:** [https://github.com/Paimilla/app-gimnacio](https://github.com/Paimilla/app-gimnacio)
+- **Demo web:** [https://paimilla.github.io/app-gimnacio/](https://paimilla.github.io/app-gimnacio/)
 
 ## Experiencia profesional
 
-### Practica Profesional - Area de Informatica
+### Práctica Profesional - Área de Informática
 
 Ilustre Municipalidad de La Cruz (Ene 2025 - Feb 2025)
 
-- Desarrollo web y migracion del portal Mercadito Digital (Odoo a WordPress).
-- Implementacion de diseno responsive y resolucion de conflictos DNS.
-- Automatizacion de inventario con Google Apps Script para mas de 90 activos tecnologicos.
-- Modernizacion de hardware (HDD a SSD) y soporte tecnico avanzado.
-- Construccion de dashboards en Excel para gestion de multas de transito.
+- Desarrollo web y migración del portal Mercadito Digital (Odoo a WordPress).
+- Implementación de diseño responsive y resolución de conflictos DNS.
+- Automatización de inventario con Google Apps Script para más de 90 activos tecnológicos.
+- Modernización de hardware (HDD a SSD) y soporte técnico avanzado.
+- Construcción de dashboards en Excel para gestión de multas de tránsito.
 
 ## Certificaciones
 
-- Supervised Machine Learning: Regression and Classification | DeepLearning.AI (Feb 2026)
-- Santander X Explorer | Banco Santander (Nov 2025)
-- Google Cloud Platform Skill Badges | Google Cloud (Oct - Nov 2025)
-- Curso Profesional de Python | CodigoFacilito (Oct 2023)
-- Scrum Foundation Professional Certificate (SFPC) | CertiProf (Mayo 2023)
+- **Deep Learning Specialization** | DeepLearning.AI *(En curso)*
+- **Supervised Machine Learning: Regression and Classification** | DeepLearning.AI (Feb 2026)
+- **Santander X Explorer** | Banco Santander (Nov 2025)
+- **Google Cloud Platform Skill Badges** | Google Cloud (Oct - Nov 2025)
+- **Curso Profesional de Python** | CódigoFacilito (Oct 2023)
+- **Scrum Foundation Professional Certificate (SFPC)** | CertiProf (Mayo 2023)
 
 ## Stack principal
 
@@ -87,20 +96,21 @@ Ilustre Municipalidad de La Cruz (Ene 2025 - Feb 2025)
 - Image Picker
 - Git y GitHub Actions
 
-## Habilidades tecnicas
+## Habilidades técnicas
 
-- IA y Datos: YOLOv11, preparacion de datos para ML, evaluacion de modelos, SQL, Excel avanzado.
+- IA y Datos: YOLOv11, preparación de datos para ML, construcción de redes neuronales (NumPy), evaluación de modelos, SQL, Excel avanzado.
 - Cloud y DevOps: Google Cloud (Compute Engine, Load Balancing), Docker.
 - Lenguajes: Python, C++, Java, PHP, Google Apps Script, VBA.
 - Web y Sistemas: WordPress, Odoo, Git/GitHub.
-- Metodologias: Scrum, trabajo agil, validacion de MVP.
-- Idiomas: Espanol (nativo), Ingles (intermedio).
+- Metodologías: Scrum, trabajo ágil, validación de MVP.
+- Idiomas: Español (nativo), Inglés (intermedio).
 
 ## Actualmente
 
-- Mejorando proyectos de deteccion y clasificacion de imagenes.
-- Fortaleciendo buenas practicas de entrenamiento y evaluacion de modelos.
-- Integrando ML con aplicaciones para despliegues practicos.
+- Cursando la Especialización de Deep Learning de Andrew Ng.
+- Mejorando proyectos de detección y clasificación de imágenes.
+- Fortaleciendo buenas prácticas de entrenamiento y evaluación de modelos.
+- Integrando ML con aplicaciones para despliegues prácticos.
 
 ## Contacto
 
@@ -126,31 +136,47 @@ Computer Civil Engineer focused on Machine Learning and Computer Vision, buildin
 
 ### Featured projects
 
-1) GymTracker
-
-Workout tracking app with weight logs, weekly progress, and statistics. Product-focused side project.
-
-- Repository: https://github.com/Paimilla/app-gimnacio
-- Live demo: https://paimilla.github.io/app-gimnacio/
-
-2) Sign language vowel detection (computer vision)
-
-Project focused on detecting vowels from one-hand gestures using image-based pattern recognition.
-
-- ML focus: visual feature extraction, pattern classification, and prediction validation.
-
-3) Food detection with YOLO
+#### 1) Food detection with YOLO
 
 Image-based food detection project using YOLO object detection models.
 
-- ML focus: object detection, inference tuning, and per-class result analysis.
-- Outcome: built with YOLOv11 and Python for Chilean food classification.
-- Dataset work: custom dataset creation and curation for supervised training.
+- **ML focus:** object detection, inference tuning, and per-class result analysis.
+- **Outcome:** built with YOLOv11 and Python for Chilean food classification.
+- **Dataset work:** custom dataset creation and curation for supervised training.
+
+#### 2) Sign language vowel detection (computer vision)
+
+Project focused on detecting vowels from one-hand gestures using image-based pattern recognition.
+
+- **ML focus:** visual feature extraction, pattern classification, and prediction validation.
+
+#### 3) Deep Learning from Scratch (Coursera Specialization)
+
+Practical study repository focused on the mathematics and logic of Deep Learning, building architectures without high-level frameworks.
+
+- **ML focus:** Mathematical development of Forward/Backward Propagation, weight initialization, Gradient Checking, Dropout, and L2 regularization.
+- **Outcome:** Construction of Deep Neural Networks (L-layer DNN) using exclusively **Python** and **NumPy** for image classification tasks.
+- **Repo:** [https://github.com/Paimilla/Deep-Learning-Specialization-Andrew-Ng-Coursera](https://github.com/Paimilla/Deep-Learning-Specialization-Andrew-Ng-Coursera)
+
+#### 4) Price and Stock Analysis System (E-commerce ETL)
+
+Automated data extraction, transformation, and loading project for inventory monitoring and competitiveness.
+
+- **Data focus:** Python integration with SQL databases for catalog cleaning and normalization.
+- **Outcome:** automated critical stock and price variation reports using Pandas and SQLite/PostgreSQL.
+- **Visualization:** Power BI dashboard construction for business KPIs analysis.
+- **Repo:** [https://github.com/Paimilla/Analisis-de-Precios-y-Stock](https://github.com/Paimilla/Analisis-de-Precios-y-Stock)
+
+#### 5) GymTracker
+
+Workout tracking app with weight logs, weekly progress, and statistics. Product-focused side project.
+
+- **Repository:** [https://github.com/Paimilla/app-gimnacio](https://github.com/Paimilla/app-gimnacio)
+- **Live demo:** [https://paimilla.github.io/app-gimnacio/](https://paimilla.github.io/app-gimnacio/)
 
 ### Professional experience
 
-IT Professional Internship
-
+**IT Professional Internship**
 Municipality of La Cruz (Jan 2025 - Feb 2025)
 
 - Web development and migration of Mercadito Digital portal (Odoo to WordPress).
@@ -161,11 +187,12 @@ Municipality of La Cruz (Jan 2025 - Feb 2025)
 
 ### Certifications
 
-- Supervised Machine Learning: Regression and Classification | DeepLearning.AI (Feb 2026)
-- Santander X Explorer | Banco Santander (Nov 2025)
-- Google Cloud Platform Skill Badges | Google Cloud (Oct - Nov 2025)
-- Professional Python Course | CodigoFacilito (Oct 2023)
-- Scrum Foundation Professional Certificate (SFPC) | CertiProf (May 2023)
+- **Deep Learning Specialization** | DeepLearning.AI *(In progress)*
+- **Supervised Machine Learning: Regression and Classification** | DeepLearning.AI (Feb 2026)
+- **Santander X Explorer** | Banco Santander (Nov 2025)
+- **Google Cloud Platform Skill Badges** | Google Cloud (Oct - Nov 2025)
+- **Professional Python Course** | CódigoFacilito (Oct 2023)
+- **Scrum Foundation Professional Certificate (SFPC)** | CertiProf (May 2023)
 
 ### Core stack
 
@@ -181,12 +208,19 @@ Municipality of La Cruz (Jan 2025 - Feb 2025)
 
 ### Technical skills
 
-- AI and Data: YOLOv11, ML data preparation, model evaluation, SQL, advanced Excel.
+- AI and Data: YOLOv11, ML data preparation, Neural Network architecture from scratch (NumPy), model evaluation, SQL, advanced Excel.
 - Cloud and DevOps: Google Cloud (Compute Engine, Load Balancing), Docker.
 - Languages: Python, C++, Java, PHP, Google Apps Script, VBA.
 - Web and Systems: WordPress, Odoo, Git/GitHub.
 - Methodologies: Scrum, agile delivery, MVP validation.
 - Languages spoken: Spanish (native), English (intermediate).
+
+### Currently
+
+- Studying the Deep Learning Specialization by Andrew Ng.
+- Improving image detection and classification projects.
+- Strengthening good practices for model training and evaluation.
+- Integrating ML with applications for practical deployments.
 
 ### Contact
 
