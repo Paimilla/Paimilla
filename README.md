@@ -23,7 +23,8 @@ Proyecto de detección de alimentos en imágenes usando modelos YOLO para identi
 - **Enfoque ML:** object detection, ajuste de inferencia y análisis de resultados por clase.
 - **Logro:** desarrollo con YOLOv11 y Python para clasificación de comida chilena.
 - **Dataset:** creación y curación de datasets personalizados para entrenamiento supervisado.
-
+- **Repo:**https://github.com/Paimilla/Deteccion-de-comida-con-YOLO26.
+- **Repo:** [https://github.com/Paimilla/Deteccion-de-comida-con-YOLO26](https://github.com/Paimilla/Deteccion-de-comida-con-YOLO26)
 *en proceso de subirlo a github*
 
 ### 2) Detección de vocales en lenguaje de señas (Visión por computadora)
