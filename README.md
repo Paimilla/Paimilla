@@ -3,7 +3,7 @@
 Ingeniero Civil Informático orientado a Machine Learning y Computer Vision, enfocado en construir soluciones aplicadas de detección, clasificación y análisis de imágenes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Paimilla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-paimilla-4000a2206/)
-[![GitHub](https://img.shields.io/badge/GitHub-Paimilla-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paimilla)
+
 
 ## Sobre mi
 
